@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function LandingPage() {
   // Replace with your Discord invite link
-  const discordInviteLink = "https://discord.gg/your-invite-link";
+  const discordInviteLink = "https://discord.gg/wfeGVqzF";
 
   return (
     <div

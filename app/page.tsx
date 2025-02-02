@@ -3,7 +3,7 @@ import { ArrowRight, Bot, Sparkles, Zap } from "lucide-react";
 import Link from "next/link";
 
 export default function LandingPage() {
-  // Replace with your Discord invite link
+  // Replace with your Discord invite lin
   const discordInviteLink = "https://discord.gg/wfeGVqzF";
 
   return (
